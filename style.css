@@ -1,7 +1,28 @@
 p {
   font-family: ariel;
-  color: rgb (248, 120, 255)
+  color: #EA5EFFFF;
 }
 ul {
-  color: rgb (248, 120, 255)
+  color: #FF69E3FF;
+  font-weight: bold;
+}
+ol {
+  background-color: #FFEDFCFF;
+  font-size: 16pt;
+}
+h1 {
+  color: #CC00FFFF;
+  font-weight: bold;
+}
+header {
+  font-family: serif;
+  background-color: #FFE3F6FF;
+}
+body {
+  font-family: cursive;
+  width: 20px;
+}
+footer {
+  color: #FF91D1FF;
+  height: 70px;
 }
